@@ -1,9 +1,8 @@
 Hi, I'm Erfan.
 
-I work mostly with Python and computer vision–related projects.  
+I work mostly with Python and computer vision–related projects.
+from developing codes to gathering data for a clean data set to make a polished websites
 I care a lot about writing code that is clean, understandable, and easy to reuse.
-
-Lately, I've been focusing on face image processing and quality estimation pipelines, especially around preprocessing, embeddings, and evaluation logic. I like projects where I can take something research-like and turn it into a practical tool.
 
 ---
 
@@ -18,5 +17,9 @@ Lately, I've been focusing on face image processing and quality estimation pipel
 - C++
 - linux/unix
 
+---
 
+### Contact
+Ahuraerfan.ir
+---
 I’m always trying to improve how I structure projects and explain what they do — both in code and documentation.
