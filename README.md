@@ -9,12 +9,13 @@ I care a lot about writing code that is clean, understandable, and easy to reuse
 ### What I usually work with
 - Python
 - - PyTorch
-- NumPy / Pandas
-- OpenCV
-- Git
-- Html & Css
-- JavaScript
+- -  NumPy / Pandas
+- -  OpenCV
+- Web Developer 
+- - Html & Css
+- - JavaScript
 - C++
+- Git
 - linux/unix
 
 ---
